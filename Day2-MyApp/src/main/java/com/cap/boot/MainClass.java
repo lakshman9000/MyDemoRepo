@@ -14,6 +14,8 @@ public class MainClass {
 		System.out.println("Good morning!");
 		System.out.println("Greetings !");
 		System.out.println("this statement is only in branch-1");
+		
+		System.out.println("this statement is only in branch-2");
 	}
 
 }
